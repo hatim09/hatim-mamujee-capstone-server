@@ -27,7 +27,7 @@ package-lock.json file.
 5. mysql
 6. nodemon - This is a nice to have and keeps the server running after changes are made.
 
-The above dependancies can be installed using the following command 'npm i express cors dotenv knex mysql nodemon'.
+The above dependancies can be installed using the following command 'npm install express cors dotenv knex mysql nodemon'.
 
 In order to run the server, please use the command 'node index' or 'node --watch index' which can be used instead of the 
 nodemon dependancy and will also keep the server running if any changes are made (auto starts the server after changes).

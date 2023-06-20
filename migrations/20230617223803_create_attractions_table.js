@@ -6,8 +6,8 @@ exports.up = function(knex) {
     return knex.schema
     .createTable("attractions", (table)  => {
         table.increments("id").primary();
-        table.integer("city_id").unsigned().references("cities.id");
-        table.string("attracion_city");
+        table.integer("city_id");
+        table.string("attraction_city");
         table.string("attraction_name");
         table.string("attraction_description");
         table.string("attraction_image");

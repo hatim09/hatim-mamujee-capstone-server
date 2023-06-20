@@ -1,4 +1,4 @@
-module.export = [
+module.exports = [
     {
         id: 1,
         city: "New York"
@@ -17,46 +17,46 @@ module.export = [
     },
     {
         id: 5,
-        city: "Dubai"
+        city: "Barcelona"
     },
     {
         id: 6,
-        city: "Cape Town"
+        city: "Dubai"
     },
     {
         id: 7,
-        city: "Amsterdam"
+        city: "Cape Town"
     },
     {
         id: 8,
-        city: "Rio de Janeiro"
+        city: "Amsterdam"
     },
     {
         id: 9,
-        city: "Tokyo"
+        city: "Rio de Janeiro"
     },
     {
         id: 10,
-        city: "Marrakech"
+        city: "Tokyo"
     },
     {
         id: 11,
-        city: "Sydney"
+        city: "Marrakech"
     },
     {
         id: 12,
-        city: "Prague"
+        city: "Sydney"
     },
     {
         id: 13,
-        city: "Vancouver"
+        city: "Prague"
     },
     {
         id: 14,
-        city: "Istanbul"
+        city: "Vancouver"
     },
     {
         id: 15,
-        city: "Barcelona"
-    }
-]
+        city: "Istanbul"
+    },
+];
