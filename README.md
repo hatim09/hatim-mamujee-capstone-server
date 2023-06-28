@@ -3,10 +3,9 @@
 Project back-end overview:
 
 This is the api and server for the wanderlust website. The API feeds travel data to the front end of the application. 
-More specfically, the API sends data for 20 cities and 7 attractions per city that the user is able to view and
-get a short description for. 
+More specfically, the API sends data for 15 cities and 5 attractions per city that the user is able to get information on.
 
-The database is used for the bucketlist feature of the website. It enables the user to save the tourist attractions they
+The database is used to store the API information and the bucketlist feature of the website. It enables the user to save the tourist attractions they
 like to their bucklist and the database stores that data for the user.
 
 Configuration:
@@ -25,7 +24,7 @@ package-lock.json file.
 3. dotenv
 4. knex
 5. mysql
-6. nodemon - This is a nice to have and keeps the server running after changes are made.
+6. nodemon - This is a nice to have and keeps the server running if changes are made in the back-end code.
 
 The above dependancies can be installed using the following command 'npm install express cors dotenv knex mysql nodemon'.
 
@@ -46,7 +45,7 @@ DB_PASSWORD - set this to 'rootroot'.
 DB_DATABASE - This is the name of the database. Set it to 'wanderlust'.
 
 
-Step by step set-up instructions;
+
 
 
 
