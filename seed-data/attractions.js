@@ -437,7 +437,7 @@ module.exports = [
         attraction_city: "Marrakech",
         attraction_name: "Saadian Tombs",
         attraction_description: "Tombs dating back to the 16th century, rediscovered in 1917",
-        attraction_image: "https://www.villasmarrakech.com/images/magazine/article_444_2619_1558623150.jpg"
+        attraction_image: "https://storage.googleapis.com/hizan-network-app.appspot.com/marrakechtricks/saadian%20tombs/central-hall_large.webp"
     },
     {
         id: 56,
@@ -501,7 +501,7 @@ module.exports = [
         attraction_city: "Prague",
         attraction_name: "St. Vitus Cathedral",
         attraction_description: "A magnificent Gothic cathedral within the Prague Castle complex",
-        attraction_image: "https://pixabay.com/photos/manhattan-new-york-164990/"
+        attraction_image: "https://www.welcometoprague.eu/storage/upload/images/sightseeing/prague-castle-st-vitus-cathedral.jpg"
     },
     {
         id: 64,
